@@ -1,5 +1,5 @@
 $(document).ready(function () {
-  var API_URL = 'http://172.16.5.79:5000'
+  var API_URL = 'http://127.0.0.1:5000'
   // DataTable initialization code...
   var table = $("#tablaDatos").DataTable({
     ajax: {
